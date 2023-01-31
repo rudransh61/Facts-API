@@ -1,16 +1,10 @@
-# Documentation HTML Template
-A Sample HTML Documentation Template for Wordpress Themes, HTML Templates and Plugins. Built with Bootstrap 3. 
-
-## Installation
-Download the package as ZIP and edit the HTML and CSS as you like.
+# Facts Api
+This is a static API which contains 100s of FACTS!!! (our team is working on more facts to make this API powerful)
 
 ## Demo
-Click this link for a live demo : http://surjithctly.github.io/documentation-html-template/
-
-## Donations & Support
-My Brain needs two urgent coffee to continue working. Buy me a coffee or two here: https://opencollective.com/documentation-template
+Click this link for a live demo : http://factsapi.netlify.app/api/api.json/
 
 ## Credits
-This is a modified version of [Template Visual's](http://themeforest.net/user/templatevisual?ref=surjithctly&utm_source=github_surjithctly_docs) Documentation : Actual Documentation Link : http://goo.gl/RVwdHE
+This is created by [Rudransh Bharwdaj](https://www.codechef.com/users/rudransh61) Documentation : Actual Documentation Link : https://github.com/asrlogistics/Facts-API
 
-Browser Testing by [Browserstack](https://www.browserstack.com/)
+## Thank You
